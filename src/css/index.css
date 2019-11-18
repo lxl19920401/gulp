@@ -1,0 +1,11 @@
+img{
+    display: inline-block;
+    width: 150px;
+    height: 150px;
+}
+.imgBox{
+    width: 150px;
+    height: 150px;
+    background: url(../images/img3.jpg) no-repeat center;
+    background-size: contain;
+}
